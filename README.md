@@ -1,2 +1,2 @@
 # sadjack
-sadjack is a cryptojacker
+sadjack is a cryptojacking malaware
